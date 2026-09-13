@@ -1,8 +1,11 @@
 # spring_boot_redis
 
-> **Development home:** https://github.com/ImL1s/spring_boot_redis  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/spring_boot_redis) · [GitLab](https://gitlab.com/aa22396584/spring_boot_redis)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/spring_boot_redis
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/spring_boot_redis) ·
+[Codeberg](https://codeberg.org/ImL1s/spring_boot_redis)
 
 
 No description provided.
